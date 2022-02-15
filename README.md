@@ -3,13 +3,11 @@ Exploring Bike-Sharing Data with Tableau. Create Worksheets, dashboards, and sto
 
 ## Overview of Project
 
-In this module we'll explore Tableau, a data analysis and visualization tool that is nearly ubiquitous in today's professional world. Tableau is so popular because it allows data visualization professionals to create assets that are visually appealing and easy for a non-technical audience to understand. We want to make our visualizations so clear and so helpful that they become our stakeholders go to resource when making key decisions. Tableau will help us to do this by providing us the tools to create powerful analytic dashboards that both tell a clear story and can be easly shared with others.
+In this project we'll explore Tableau, a data analysis and visualization tool that is nearly ubiquitous in today's professional world. Tableau is so popular because it allows data visualization professionals to create assets that are visually appealing and easy for a non-technical audience to understand. We want to make our visualizations so clear and so helpful that they become our stakeholders go to resource when making key decisions. Tableau will help us to do this by providing us the tools to create powerful analytic dashboards that both tell a clear story and can be easly shared with others.
 
 What if you could start a similar bike-share business for your hometown of Des Moines Iowa? We do have a potential angel investor who might be interested in providing seed funding to explore a bike-share program in Des Moines. the mechanics of making this business work might be quite different in Des Moines than in New York City. So we decide that the first step is to figure out how the bike-share business actually works in New York City, From there we'll create a proposal on how it might work in Des Moines. Using data analytics experience we can take the lead on figuring out how this project might actually work.
 
-This assignment is related to the Bootcamp Data Analytics from the University of Toronto. It comprises the goals below for this module: 
-
-Follow below the goals for this module:
+Follow below the goals for this project:
 
 1) Objective 1: Change Trip Duration to a Datetime Format
 2) Objective 2: Create Visualizations for the Trip Analysis
